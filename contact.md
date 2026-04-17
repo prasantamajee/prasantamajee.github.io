@@ -3,8 +3,8 @@ layout: page
 title: Contact
 ---
 
-**Email:** your-email@example.com  
+**Email:** prasantahit14@gmail.com  
 
-**LinkedIn:** https://linkedin.com/in/your-profile  
+**LinkedIn:** www.linkedin.com/in/prasanta-majee  
 
-**Google Scholar:** https://scholar.google.com/your-link  
+**Google Scholar:** [https://scholar.google.com/your-link](https://scholar.google.com/citations?user=vA-GyXcAAAAJ&hl=en&oi=ao)  
