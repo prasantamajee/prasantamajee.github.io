@@ -3,8 +3,19 @@ layout: page
 title: About
 ---
 
-I hold a Ph.D. in Civil Engineering (Environmental Engineering) from NIT Warangal. My doctoral research focused on pesticide behavior in agricultural soils, including sorption–desorption, degradation, and leaching.
+# About
 
-I have extensive experience in laboratory experimentation and environmental analysis using advanced instruments such as HPLC, GC, SEM, FTIR, XRD, and BET.
+I completed my Ph.D. in Civil Engineering (Environmental Engineering) from the National Institute of Technology (NIT) Warangal.
 
-My research interests include contaminant transport, groundwater quality, and sustainable remediation technologies.
+My doctoral research focused on pesticide sorption-desorption, degradation, and leaching behavior in agricultural soils and their implications for groundwater contamination.
+
+I possess extensive experience in:
+
+- Soil and water quality assessment
+- Contaminant transport studies
+- Adsorption and remediation technologies
+- Advanced environmental analytical techniques
+
+I have hands-on expertise in analytical and characterization instruments including HPLC, GC, SEM, FTIR, XRD, and BET.
+
+My broader research interests focus on sustainable environmental remediation and groundwater protection.
