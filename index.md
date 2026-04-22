@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="profile-box">
-<img src="assets/profile.jpg" alt="Profile Photo" width="180">
+<img src="assets/profile.png" alt="Profile Photo" width="180">
 
 # Dr. Prasanta Majee
 
