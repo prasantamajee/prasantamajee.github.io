@@ -3,9 +3,28 @@ layout: page
 title: Publications
 ---
 
+# Publications
+
 ## Journal Articles
 
-- Majee, P., et al. (Year). *Title of the paper*. **Journal Name**, Volume(Issue), Pages.  
-- Majee, P., et al. (Year). *Title of the paper*. **Journal Name**, Volume(Issue), Pages.  
+### 1. Title of Your Paper
 
-(Add DOI links if available)
+**Authors:** Prasanta Majee et al.
+
+**Journal:** Journal Name
+
+**Year:** 2025
+
+**DOI:** https://doi.org/xxxxx
+
+---
+
+### 2. Title of Your Paper
+
+**Authors:** Prasanta Majee et al.
+
+**Journal:** Journal Name
+
+**Year:** 2024
+
+**DOI:** https://doi.org/xxxxx
