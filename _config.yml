@@ -4,17 +4,22 @@ description: "Environmental Engineer | Soil & Groundwater Contamination | Adsorp
 url: "https://prasantamajee.github.io"
 baseurl: ""
 
+# Theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Author
+
 author:
   name: "Dr. Prasanta Majee"
-  email: "your-email@example.com"
+  email: "prasantahit14@gmail.com"
 
-# Social links
+# Social Links
+
 github_username: prasantamajee
-linkedin: your-linkedin-link
-google_scholar: your-google-scholar-link
-
-# Theme
-theme: minima
+linkedin: https://www.linkedin.com/in/prasanta-majee
+google_scholar: https://scholar.google.com/citations?user=vA-GyXcAAAAJ&hl=en&oi=ao
 
 # Navigation
 header_pages:
