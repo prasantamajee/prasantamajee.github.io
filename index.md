@@ -3,22 +3,57 @@ layout: default
 title: Home
 ---
 
-# Dr. Prasanta Majee  
-**Environmental Engineer | Ph.D. (NIT Warangal)**
+<div class="profile-box">
+<img src="assets/profile.jpg" alt="Profile Photo" width="180">
 
-I am an Environmental Engineer specializing in soil and water quality, with a focus on the behavior, transport, and remediation of organic contaminants and heavy metals.
+# Dr. Prasanta Majee
 
-My research integrates experimental analysis and environmental modeling to address groundwater contamination, pesticide leaching, and sustainable remediation technologies.
+### Environmental Engineer | Ph.D. (NIT Warangal)
 
----
-
-## Research Focus
-- Pesticide transport in soil and groundwater  
-- Adsorption and remediation using biochar  
-- Groundwater quality assessment (WQI, HPI)  
-- Emerging contaminants and microplastics  
+</div>
 
 ---
 
-## Expertise
-HPLC | GC | SEM | FTIR | XRD | BET | ArcGIS  
+## About Me
+
+I am an Environmental Engineer specializing in soil and groundwater contamination, pesticide transport, adsorption processes, and sustainable remediation technologies.
+
+My research integrates laboratory experimentation, environmental analysis, and contaminant transport studies to address critical environmental challenges.
+
+---
+
+## Research Areas
+
+- Soil–groundwater contaminant transport
+- Pesticide sorption and degradation
+- Biochar-based remediation
+- Groundwater quality assessment (WQI & HPI)
+- Emerging contaminants and microplastics removal
+- Water and wastewater treatment
+
+---
+
+## Technical Expertise
+
+### Analytical Techniques
+- HPLC
+- Gas Chromatography (GC)
+- UV-Vis Spectroscopy
+
+### Material Characterization
+- SEM
+- FTIR
+- XRD
+- BET
+
+### Software
+- ArcGIS
+- MS Office
+
+---
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
+- [GitHub](https://github.com/prasantamajee)
